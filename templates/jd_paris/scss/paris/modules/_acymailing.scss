@@ -1,0 +1,18 @@
+// Horizontal Style
+.acym_module {
+	.acym_form{
+		.cell{
+			width: 100%;
+		}
+		input{
+			cursor: initial;
+			padding: 10px;
+		}
+	}
+	.acysubbuttons{
+		input{
+			width: 100%;
+			padding: 10px 0;
+		}
+	}
+}
